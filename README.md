@@ -35,7 +35,7 @@ The analysis is performed on apple_products.xlsx, which includes:
 | Number Of Ratings | Total user ratings submitted |
 | Star Rating | The average score out of 5 |
 | Ram | Memory configuration |
-
+https://github.com/KanakSharma0308/iphone-sales-analysis-india/blob/main/apple_products%20(1).xlsx
 
 💡 Conclusion
 The data suggests that while the "Pro Max" models hold the highest ratings (4.7), the standard models and older generations (like the iPhone SE and iPhone 11) tend to accumulate a significantly higher number of ratings, likely due to their more accessible price points and higher discount margins.
